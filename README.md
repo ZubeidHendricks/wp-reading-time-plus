@@ -1,5 +1,7 @@
 # Reading Time Plus
 
+🌐 **[Browse all plugins](https://zubeidhendricks.github.io/wp-plugins-site/)** · ⬇️ **[Download .zip](https://github.com/ZubeidHendricks/wp-reading-time-plus/releases/latest/download/reading-time-plus.zip)**
+
 Add an accurate "X min read" estimate to your posts automatically, or anywhere
 with a shortcode. Part of the
 [Zub Plugin Factory](https://github.com/ZubeidHendricks/wp-plugin-factory).
